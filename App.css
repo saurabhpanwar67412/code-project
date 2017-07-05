@@ -1,0 +1,77 @@
+/* designed by saurabh panwar */
+/* let me know before use this component in your website by mail me on saurabhpanwar67412@gmail.com*/
+.App {
+  text-align: center;
+  cursor: pointer;
+  float: left;
+}
+
+.App-logo {
+  animation: App-logo-spin infinite 20s linear;
+  height: 80px;
+}
+
+.App-header {
+  background-color:  #B0E0E6;
+  width: 215px;
+  height: 40px;
+  padding: 20px;
+  color: white;
+
+}
+.create-meeting:hover{
+  color: white;
+}
+
+.create-meeting{
+  background-color:#1E90FF;
+  width: 215px;
+  height: 30px;
+  padding: 20px;
+  color: #33FFE6; 
+}
+.create-menus:hover{
+  color: white;
+}
+
+.create-footer{
+  background-color:#B0E0E6  ;
+  padding:9% 3%;
+  height: 10px;
+}
+.App-intro {
+  font-size: large;
+}
+.bttn{
+  float:left;
+}
+.h1{
+  text-align: center;
+  float:left;
+  margin-left:5px;
+text-decoration-style: wavy;
+  margin-top: 10px;
+}
+ul{
+  list-style-type: none;
+  height:80%;
+  margin:0;
+}
+.create-menu{
+  background-color: #20DFC8;
+  height:450px;
+  text-align: left;
+}
+li{
+  color: #040504;
+  padding:4% 0;
+}
+li:hover{
+  color:white;
+  padding:4% 0;
+  font-size:110%;
+}
+@keyframes App-logo-spin {
+  from { transform: rotate(0deg); }
+  to { transform: rotate(360deg); }
+}
